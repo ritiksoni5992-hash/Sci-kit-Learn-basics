@@ -75,7 +75,3 @@ pip install pandas scikit-learn
 * Data visualization
 * Feature engineering
 * Hyperparameter tuning
-
-## License
-
-MIT License
